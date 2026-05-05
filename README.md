@@ -1,2 +1,1 @@
-This code is associated with the paper "Flexible modeling of survival data with covariates subject to detection limits" 
-by Bernhardt, Wang, and Zhang
+This code is associated with the Bernhardt, Wang, and Zhang 2014 paper "Flexible modeling of survival data with covariates subject to detection limits" appearing in Computational Statistics and Data Analysis.
